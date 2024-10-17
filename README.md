@@ -9,7 +9,6 @@
 #### This project focuses on end-to-end development and deployment of ml models in production using MlOps framework,docker and flask.
 ###### I utilized advanced mlops techniques, applying tensorflow, flask, docker and docker-compose. 
 
-###### To know the best model with best parameter I have used gridsearchCV algorithmns and XGBoost has scored the best.
 ---
 
 
